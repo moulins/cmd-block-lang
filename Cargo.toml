@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["moulins <<>>"]
 
 [dependencies]
+lazy_static = "1.0"
 
 [lib]
 name = "hemascript_lib"

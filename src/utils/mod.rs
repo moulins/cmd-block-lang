@@ -1,5 +1,6 @@
 
 pub mod text;
+pub mod interning;
 
 pub fn is_numeric(c: u8) -> bool {
 	match c {
